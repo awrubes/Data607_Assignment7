@@ -1,0 +1,20 @@
+<bookList>
+	<book>
+		<bookTitle>Wikinomics: How Mass Collaboration Changes Everything</bookTitle>
+		<authors>Don Tapscott, Anthony D. Williams</authors>
+		<yearPublished>2007</yearPublished>
+		<publisher>Portfolio</publisher>
+	</book>
+	<book>
+		<bookTitle>Freakonomics</bookTitle>
+		<authors>Steven Levitt, Stephen Dubner</authors>
+		<yearPublished>2005</yearPublished>
+		<publisher>William Morrow</publisher>
+	</book>
+	<book>
+		<bookTitle>House of Debt</bookTitle>
+		<authors>Atif Mian, Amir Sufi</authors>
+		<yearPublished>2014</yearPublished>
+		<publisher>the University of Chicago Press</publisher>
+	</book>
+</bookList>
